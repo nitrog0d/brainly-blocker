@@ -2,7 +2,7 @@
   "name": "Brainly Blocker by nitro.",
   "short_name": "Brainly Blocker",
   "author": "nitro.",
-  "description": "An extension that blocks some of brainly's ads and other stuff",
+  "description": "An extension that blocks some of brainly's ads and other stuff.",
   "version": "1.0.0",
   "manifest_version": 2,
   "content_scripts": [
