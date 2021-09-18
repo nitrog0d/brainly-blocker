@@ -10,8 +10,8 @@ Uma extensão que bloqueia alguns dos anúncios do brainly e outras coisas.
 ## Instalação
 
 ### Instale pela loja do seu navegador:
-* **Firefox:** https://addons.mozilla.org/en-US/firefox/addon/brainly-blocker/  
-* **Opera:** https://addons.opera.com/en/extensions/details/brainly-blocker-by-nitro/  
+* **Firefox:** https://addons.mozilla.org/pt-BR/firefox/addon/brainly-blocker/  
+* **Opera:** https://addons.opera.com/pt-br/extensions/details/brainly-blocker-by-nitro/  
 * **Edge:** Em revisão.  
 * **Chrome:** $5
 
