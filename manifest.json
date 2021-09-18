@@ -1,14 +1,15 @@
 {
-  "name": "Brainly Blocker by nitro.",
+  "name": "__MSG_extensionName__",
   "short_name": "Brainly Blocker",
   "author": "nitro.",
-  "description": "An extension that blocks some of brainly's ads and other stuff.",
-  "version": "1.0.0",
+  "description": "__MSG_extensionDescription__",
+  "version": "1.0.1",
   "manifest_version": 2,
+  "default_locale": "pt_BR",
   "content_scripts": [
     {
     "js": [ "src/inject.js" ],
-    "matches": [ "*://brainly.com.br/tarefa/*", "*://brainly.com/question/*", "*://brainly.in/question/*" ],
+    "matches": [ "*://brainly.com.br/*", "*://brainly.com/*", "*://brainly.in/*" ],
     "run_at": "document_idle"
     }
   ],
