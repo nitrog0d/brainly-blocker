@@ -3,17 +3,17 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nitrog0d/brainly-blocker?style=for-the-badge)](https://github.com/nitrog0d/brainly-blocker/releases/latest)
 [![Support me on Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F1177520&query=data.attributes.patron_count&suffix=%20Patrons&color=FF5441&label=Patreon&logo=Patreon&logoColor=FF5441&style=for-the-badge)](https://patreon.com/nitrog0d)  
 
-Português | [English](https://github.com/nitrog0d/brainly-blocker/README.en.md)
+[Português](https://github.com/nitrog0d/brainly-blocker) | English
 
-Uma extensão que bloqueia alguns dos anúncios do brainly e outras coisas.
+An extension that blocks some of brainly's ads and other things.
 
-## Instalação
+## Installation
 
-### Instale pela loja do seu navegador:
+### Install it from your browser's store:
 * **Firefox:** https://addons.mozilla.org/en-US/firefox/addon/brainly-blocker/  
 * **Opera:** https://addons.opera.com/en/extensions/details/brainly-blocker-by-nitro/  
-* **Edge:** Em revisão.  
+* **Edge:** In review.  
 * **Chrome:** $5
 
-Se a extensão não estiver disponível para o navegador que você está usando, você pode tentar instalar ela manualmente baixando a [última versão](https://github.com/nitrog0d/brainly-blocker/releases/latest).  
-Procure como instalar extensões .zip para seu navegador.
+If the extension isn't available for the browser you're using, you can try installing it manually downloading the [latest version](https://github.com/nitrog0d/brainly-blocker/releases/latest).  
+Look up how to install .zip extensions for your browser.
