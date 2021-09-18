@@ -1,0 +1,20 @@
+{
+  "name": "Brainly Blocker by nitro.",
+  "short_name": "Brainly Blocker",
+  "author": "nitro.",
+  "description": "An extension that blocks some of brainly's ads and other stuff",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+    "js": [ "src/inject.js" ],
+    "matches": [ "*://brainly.com.br/tarefa/*", "*://brainly.com/question/*", "*://brainly.in/question/*" ],
+    "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png",
+    "128": "icons/icon-128.png"
+  }
+}
